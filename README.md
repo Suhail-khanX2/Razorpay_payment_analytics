@@ -45,5 +45,5 @@ The analysis includes summaries, joins, conditional logic and CTE-based reportin
 Feel free to explore the repository, suggest improvements or build on this dataset. 🚀                                         
 
 **Download**
-[Download SQL File](razorpay_payment_analytics.sql)
+[SQL File](razorpay_payment_analytics.sql)
 
